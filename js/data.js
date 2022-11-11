@@ -5,7 +5,7 @@ const PHOTOS_COUNT = 25;
 // Кол-во аватаров
 const AVATARS_COUNT = 6;
 // Кол-во комментариев
-const COMMENTS_COUNT = getRandomPositiveInteger(1, 10);
+const COMMENTS_COUNT = getRandomPositiveInteger(1, 100);
 
 // Диапазон лайков
 const LikesCount = {
